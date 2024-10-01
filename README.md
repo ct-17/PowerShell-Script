@@ -3,7 +3,7 @@
 || 	   file .ps1 với quyền admin.												                         ||
 || *** Chạy từng lệnh phía dưới 1 để thực hiện									                 ||
 || *** Rất tiếc vì sự bất tiện này, nhưng tôi chưa tìm được cách để để đưa 		   ||
-|| 	   các tập hợp lệnh này vào file Tools.ps1. 								                 ||
+|| 	   các tập hợp lệnh này vào file Tools.ps1. 	huylv							                 ||
 ===================================================================================
 
 New-PSDrive HKCR Registry HKEY_CLASSES_ROOT
